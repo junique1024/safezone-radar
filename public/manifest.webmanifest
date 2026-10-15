@@ -1,0 +1,11 @@
+{
+  "name": "세이프존 레이더",
+  "short_name": "세이프존",
+  "description": "경기장 구역별 체감온도 관제 MVP",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F3F5F4",
+  "theme_color": "#1F5FBF",
+  "lang": "ko",
+  "icons": [{ "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}

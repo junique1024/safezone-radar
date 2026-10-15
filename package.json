@@ -1,0 +1,9 @@
+{
+  "name": "safezone-radar",
+  "version": "2.0.0",
+  "private": true,
+  "type": "module",
+  "description": "세이프존 레이더 — 경기장 구역별 체감온도(WBGT) 관제 MVP",
+  "scripts": { "dev": "node dev-server.mjs" },
+  "engines": { "node": ">=18" }
+}
